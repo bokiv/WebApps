@@ -1,0 +1,50 @@
+<App>
+    <Header>
+        <Title>
+        </Title>
+        <Link>
+            <SinglLink>
+                <a>
+                    <img>
+                </a>
+            </SinglLink>
+        </Link>
+        <LanguageLink>
+            <SingleLanguage>
+                <a>
+                    <img>
+                </a>
+            </SingleLuange>
+        </LanguageLink>
+</Header>
+<Main>
+        <MainTitle>
+            <h2></h2>
+        </MainTitle>
+        <FeedBox>
+            <SingleRadio>
+                <a>
+                    <img>
+                </a>
+            </SingleRadio>
+            <MainRadio>
+                <img>
+                    <audio>
+                    </audio>
+            </MainRadio>
+            <Commercials>
+                <a>
+                    <img>
+                </a>
+            </Commercials>
+        </FeedBox>
+    </Main>
+    <Footer>
+        <p></p>
+        <FooterLink>
+            <a></a>
+        </FooterLink>
+    </Footer>
+</Main>
+
+</App>
